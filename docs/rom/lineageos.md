@@ -172,10 +172,8 @@ Teliti dan pahami step berikut:
 
 ---
 
-Command Line untuk yang sudah paham atau yang sudah terbiasa install custom rom via sideload, ini command untuk install
-<details>
-  <summary>Open</summary>
- 
+Command Line untuk yang sudah paham atau yang sudah terbiasa install custom rom via sideload, ini command untuk install.  
+Atau ringkasan Command diatas.
  
   ```
   adb reboot bootloader
@@ -198,4 +196,4 @@ Command Line untuk yang sudah paham atau yang sudah terbiasa install custom rom 
   ```
   adb -d sideload magisk.zip
   ```
- </details>
+
