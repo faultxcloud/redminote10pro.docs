@@ -4,6 +4,15 @@ nav_order: 2
 ---
 # Informasi Perangkat
 - Codename: sweet / sweetin
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 |  | Spesification |
 |:---|:---|
 | SoC | Qualcomm SM7150-AC Snapdragon 732G |
