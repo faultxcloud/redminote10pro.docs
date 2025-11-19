@@ -25,3 +25,6 @@ nav_order: 2
 | Cameras | 108 MP, LED flash, 8 MP (ultrawide) LED flash, 5 MP (macro) LED flash, 2 MP (depth) LED flash, 16 MP, No flash |
 | Dimensions | 164 mm (6.46 in) (h), 76.5 mm (3.01 in) (w), 8.1 mm (0.32 in) (d) |
 | Battery | Non-removable Li-Po 5020 mAh |
+
+
+[Xiaomi](https://www.mi.com/global/product/redmi-note-10-pro/)
