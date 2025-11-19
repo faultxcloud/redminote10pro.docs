@@ -6,12 +6,12 @@ nav_order: 2
 
 # Firmware Only
 
+`size: 80 MB±`
 
 **Redmi Note 10 Pro**
 
 `codename: sweet`
 
-`size: 80 MB±`
 
 | Region | Version | Link |
 |:-------|:--------|:-----|
@@ -29,6 +29,7 @@ nav_order: 2
 |:----|:----|:----|
 |India|``V14.0.1.0.TKFINXM``|[**Download**](https://xmfirmwareupdater.com/firmware/sweetin/stable/V14.0.1.0.TKFINXM/)
 
+---
 
 # Firmware + Vendor
 

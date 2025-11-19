@@ -1,5 +1,5 @@
 ---
-title: MIUI
+title: MIUI Official ROM
 parent: ROM
 nav_order: 1
 ---
