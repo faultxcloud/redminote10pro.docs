@@ -14,7 +14,7 @@ Namun, melakukan UBL akan menghapus semua data, jadi pastikan kamu sudah backup.
 > - Semua data akan terhapus (factory reset)
 > - Garansi mungkin tidak berlaku tergantung kebijakan toko
 > - Risiko bootloop jika langkah salah
-> - Beberapa aplikasi (perbankan, e-wallet, dll.)mungkin mendeteksi status bootloader terbuka.  
+> - Beberapa aplikasi (perbankan, e-wallet, dll.) mungkin mendeteksi status bootloader terbuka.  
 
 Lanjutkan jika kamu paham konsekuensinya.
 
