@@ -18,6 +18,7 @@ kramdown:
 # Theme spesifik (just-the-docs) options — contoh fitur yang umum dipakai
 # logo: "/assets/images/just-the-docs.png" 
 # favicon_ico: "/assets/images/favicon.ico"
+favicon: "https://github.githubassets.com/favicons/favicon.svg"
 
 search_enabled: true
 
