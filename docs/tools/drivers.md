@@ -107,7 +107,7 @@ Then **Close** `Mi Unlock`.
 - Open Terminal / CMD
 - Type the command: `fastboot devices`  
 
-If the result looks like this, you're done.
+If the result looks like this, you're done 🎉.
   <p align="center">
     <img src="../assets/images/adb-fastboot/12.png" alt="Picture" width="" height="">
   </p>
