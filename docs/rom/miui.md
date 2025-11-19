@@ -4,7 +4,8 @@ parent: ROM
 nav_order: 1
 ---
 
-![](assets/images/dl-miui.png)
+![MIUI](https://github.com/faultxcloud/redminote10pro.docs/blob/main/docs/assets/images/dl-miui.png)
+
 
 # MIUI Official ROM
 
@@ -19,7 +20,7 @@ Region   : India
 
 
 
-## Global
+## Global (MI)
 
 |  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:----|:--------|:--------|:--------|:--------:--------|:--------|:--------|
