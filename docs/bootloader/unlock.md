@@ -25,15 +25,15 @@ Settings → Mi Account
 2. Mengaktifkan mode pengembang.  
 Settings → About phone
 Tap MIUI Version 7–10 kali hingga muncul _“You are now a developer!”_
-3. Mengaktifkan OEM Unlocking & USB Debugging
-Masuk ke:
+3. Mengaktifkan OEM Unlocking & USB Debugging  
+Masuk ke:  
 Settings → Additional settings → Developer options
 Aktifkan:
 - ✔ OEM unlocking
 - ✔ USB debugging
 - ✔ USB debugging (security settings) → login akun Mi
 
-4. Menghubungkan akun Mi ke status Mi Unlock
+4. Menghubungkan akun Mi ke status Mi Unlock  
 Masuk:  
 Settings → Additional settings → Developer options → Mi Unlock status.  
 Lalu pilih:  
