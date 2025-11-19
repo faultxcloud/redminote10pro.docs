@@ -1,7 +1,7 @@
 ---
 title: Find Device storage corrupt
+parent: troubleshooting
 nav_order: 1
-has_children: true
 ---
 
 # Fix "Find Device storage corrupt. Your device is unsafe now""

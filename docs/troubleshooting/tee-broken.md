@@ -1,7 +1,7 @@
 ---
-title: Find Device storage corrupt
+title: TEE Broken
+parent: troubleshooting
 nav_order: 2
-has_children: true
 ---
 
 # TEE Broken
