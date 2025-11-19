@@ -6,7 +6,7 @@ nav_order: 2
 
 # Fix "Find Device storage corrupt. Your device is unsafe now""
 
-{: .caution }
+{: .warning }
 > Do With Your Own Risk!!
 
 ### Metode 1
