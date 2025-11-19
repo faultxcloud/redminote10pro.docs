@@ -23,8 +23,5 @@ Metode root modern untuk Android yang bersifat systemless, artinya proses root t
 Download Magisk Official `.zip`:
 
 <span class="fs-3">
-[Magisk v29.0](https://github.com/topjohnwu/Magisk/releases/tag/v29.0){: .btn }
+[Magisk](https://github.com/topjohnwu/Magisk){: .btn }
 </span> 
-
-Stable
-{: .label .label-green }

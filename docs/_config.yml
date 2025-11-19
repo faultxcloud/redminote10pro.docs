@@ -61,3 +61,6 @@ nav_enabled: true
 
 # Lain-lain
 exclude: ["README.md"]
+
+
+footer_content: "© 2025 FaultX - Documentation"
