@@ -6,3 +6,5 @@ nav_order: 1
 Selamat datang. Gunakan sidebar untuk navigasi.
 
 
+{: .note }
+A paragraph that will be rendered as a Note callout.
