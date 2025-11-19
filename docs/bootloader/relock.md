@@ -6,7 +6,7 @@ nav_order: 2
 # Relock Bootloader
 Relock bootloader dilakukan ketika kamu ingin mengembalikan ke kondisi pabrik, biasanya sebelum dijual atau saat ingin memulihkan keamanan perangkat.  
 
-{: .highlight}
+{: .warning}
 > Relock hanya boleh dilakukan jika HP memakai ROM resmi (MIUI Oficial / Stock ROM) yang tidak dimodifikasi, non-root, dan partisi lengkap.
 Jika kamu relock saat memakai Custom ROM → 100% brick (bootloop / hardbrick).
 
