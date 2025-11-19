@@ -27,7 +27,10 @@ Untuk biaya sangat varian (estimasi): `Rp 400,000 - Rp 1,000,000 ` dan ini terga
 
 2. **Ganti Mainboard**  
 Ya, cara mudah tapi mahal ganti mainboard.  
-bisa cek harga resmi (jika masih ada)  [Cek Part](https://www.mi.co.id/id/support/spare-parts-price/?name=redmi-note-10-pro m){: .btn .btn-purple }
+bisa cek harga resmi (jika masih ada)
+<span class="fs-3">
+[Cek Part](https://www.mi.co.id/id/support/spare-parts-price/?name=redmi-note-10-pro){: .btn }
+</span>
 
 ---
 
