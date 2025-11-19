@@ -54,7 +54,7 @@ Click ➜ **Next**
   </p>
 
 
-#### Step 5
+### Step 5
 The message "Ready to use" will appear.
 Click **"Finish"** 
   <p align="center">
@@ -67,7 +67,8 @@ Double click `miflash_unlock.exe`
     <img src="../assets/images/adb-fastboot/6.png" alt="Picture" width="" height="">
   </p>
 
-#### Step 7
+### Step 7
+
   <p align="center">
     <img src="../assets/images/adb-fastboot/7.jpeg" alt="Picture" width="" height="">
   </p>
@@ -78,7 +79,7 @@ Click the **"Gear"** icon (see the red circle)
     <img src="../assets/images/adb-fastboot/8.png" alt="Picture" width="" height="">
   </p>
 
-### Step 9</summary>
+### Step 9
 - Open **Device Manager** (Click the **Start** button (Windows logo) ➜ Type **Device Manager** in the search bar ➜ Click on the **Device Manager** result)
 - Connect your device to the computer via USB cable
 - If Device Manager shows **`⚠︎ Android`** it means the fastboot driver has not been installed correctly
