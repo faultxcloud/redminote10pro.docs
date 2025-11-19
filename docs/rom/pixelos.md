@@ -32,6 +32,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 ### Firmware Only
 
 **Redmi Note 10 Pro**
+
 | Region | Version | Link |
 |:-------|:--------|:-----|
 | Global | ``V14.0.8.0.TKFMIXM`` | [**Download**](https://cloud03.faultx.workers.dev/0:/Firmware/Firmware%20Only%20(FW)/Global%20(MI)/14.0.8/fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip?a=view)
@@ -39,6 +40,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 | Indonesia | ``V14.0.2.0.TKFIDXM`` | [**Download**](https://cloud03.faultx.workers.dev/0:/Firmware/Firmware%20Only%20(FW)/Indonesia%20(ID)/14.0.2/fw_sweet_miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip?a=view)
 
 **Redmi Note 10 Pro / Pro Max (India)**
+
 | Region | Version | Link |
 |:----|:----|:----|
 |India|``V14.0.1.0.TKFINXM``|[**Download**](https://xmfirmwareupdater.com/firmware/sweetin/stable/V14.0.1.0.TKFINXM/)
@@ -46,12 +48,14 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 ---
 
 ### Android 16
+
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
 | - | - | - | - |
 
 
 ### Android 15
+
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
 | PixelOS_sweet-15.0-20250517-1357.zip | 2025-05-17 | ``9d9fdde18e524b033c027a14e2ac7e94`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/fifteen/sweet/PixelOS_sweet-15.0-20250517-1357.zip/download) |
@@ -61,6 +65,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 ---
 
 ### Android 14
+
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
 | PixelOS_sweet-14.0-20241026-0519.zip | 2024-10-26| ``e0c6e5913373c4bd4f403a99d6bf539a`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20241026-0519.zip/download) |
@@ -69,6 +74,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 
 
 ### Android 13
+
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
 | PixelOS_sweet-13.0-20230831-0536.zip| 2023-08-31 | ``d4211e74fd672c5a4c751bda67ea1ec6`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/PixelOS_sweet-13.0-20230831-0536.zip/download) |
@@ -77,6 +83,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 
 
 ### Android 12
+
 | File Name | Release | MD5 | Link |
 |:----|:----|:----|:----|
 | PixelOS_sweet-12.1-20220812-0031.zip | 2022-08-12 | ``ce4895f8a3cf2af7fd5b659986fea5ce`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220812-0031.zip/download) |
