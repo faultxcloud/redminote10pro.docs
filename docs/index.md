@@ -3,7 +3,9 @@ title: Home
 nav_order: 1
 ---
 # Redmi Note 10 Pro — Dokumentasi
-Selamat datang. Gunakan sidebar untuk navigasi.
+Halo! 👋  
+Ini adalah dokumentasi untuk Redmi Note 10 Pro yang pernah saya gunakan.  
+_Gunakan sidebar di kiri untuk mulai menjelajah._
 
 
 {: .warning }
@@ -12,3 +14,4 @@ Selamat datang. Gunakan sidebar untuk navigasi.
 > Saya tidak bertanggung jawab atas apapun yang terjadi pada perangkat Anda, lakukan dengan risiko Anda sendiri!
 > 
 > [`FaultX`](https://t.me/faultx003)
+
