@@ -3,18 +3,7 @@ title: Driver
 parent: Tools
 nav_order: 1
 ---
-# Install Driver
-
-<!--
-<details>
-  <summary></summary>
-  <p align="center">
-    <img src="" alt="Picture" width="" height="">
-  </p>
-</details>
--->
-
-# adb & fastboot Driver
+# Install adb & fastboot Driver
 
 {: .note }
 > Attention to the installation steps properly
