@@ -1,7 +1,7 @@
 ---
-title: Troubleshooting
-has_children: true
+title: Tools
 nav_order: 9
+has_children: true
 ---
 
 # Troubleshooting
