@@ -17,7 +17,10 @@ Codename : sweetin
 Region   : India
 ```
 
+
+
 ## Global
+
 |  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:----|:--------|:--------|:--------|:--------:--------|:--------|:--------|
 | **MIUI 14** |
