@@ -1,8 +1,10 @@
 ---
 title: Troubleshooting
-nav_order: 9
 has_children: true
+nav_order: 9
 ---
+
 # Troubleshooting
 
-Permasalahan yang cukup umum di Redmi Note 10 Pro
+Kumpulan panduan pemecahan masalah untuk Redmi Note 10 Pro.
+
