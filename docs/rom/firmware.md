@@ -38,4 +38,6 @@ Firmware + Vendor for Redmi Note 10 Pro / Pro Max
 
 `size: 700 MB±`
 
-[Download](https://sourceforge.net/projects/sweet-fw-vendor/files/){: .btn .btn-purple }
+<span class="fs-3">
+[Download](https://sourceforge.net/projects/sweet-fw-vendor/files/){: .btn }
+</span>
