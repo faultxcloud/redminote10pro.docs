@@ -4,7 +4,7 @@ parent: ROM
 nav_order: 1
 ---
 
-![MIUI](https://github.com/faultxcloud/redminote10pro.docs/blob/main/docs/assets/images/dl-miui.png)
+![Download MIUI](../assets/images/dl-miui.png)
 
 
 # MIUI Official ROM
