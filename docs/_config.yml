@@ -1,5 +1,5 @@
 # docs/_config.yml
-title: "Redmi Note 10 Pro Documentation"
+title: "Redmi Note 10 Pro Documentation - FaultX"
 description: "Dokumentasi — Redmi Note 10 Pro"
 # Pin just-the-docs ke rilis stabil
 remote_theme: just-the-docs/just-the-docs@v0.6.2
@@ -18,7 +18,7 @@ kramdown:
 # Theme spesifik (just-the-docs) options — contoh fitur yang umum dipakai
 # logo: "/assets/images/just-the-docs.png" 
 # favicon_ico: "/assets/images/favicon.ico"
-favicon: "https://github.githubassets.com/favicons/favicon.svg"
+favicon_ico: "https://github.githubassets.com/favicons/favicon.svg"
 
 search_enabled: true
 
@@ -63,4 +63,4 @@ nav_enabled: true
 exclude: ["README.md"]
 
 
-footer_content: "© 2025 FaultX - Documentation"
+# footer_content: "© 2025 FaultX - Documentation"
