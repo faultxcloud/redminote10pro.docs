@@ -1,6 +1,6 @@
 ---
 title: ROM
-nav_order: 6
+nav_order: rom
 has_children: true
 ---
 # ROM

@@ -1,7 +1,7 @@
 ---
 title: GApps (GApps)
 parent: ROM
-nav_order: 2
+nav_order: 4
 ---
 
 # GApps (Google Apps)

@@ -1,7 +1,7 @@
 ---
 title: LineageOS
 parent: ROM
-nav_order: 2
+nav_order: 5
 ---
 ![](../assets/images/lineageos.png)
 # LineageOS

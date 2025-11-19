@@ -1,7 +1,7 @@
 ---
 title: Firmware
 parent: ROM
-nav_order: 2
+nav_order: 3
 ---
 
 # Firmware Only

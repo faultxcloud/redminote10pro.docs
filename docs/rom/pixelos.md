@@ -1,7 +1,7 @@
 ---
 title: PixelOS
 parent: ROM
-nav_order: 2
+nav_order: 6
 ---
 
 ![](../assets/images/pixelos.png)
