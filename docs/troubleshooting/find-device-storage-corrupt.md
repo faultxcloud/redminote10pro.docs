@@ -1,6 +1,6 @@
 ---
 title: Find Device storage corrupt
-parent: troubleshooting
+parent: Troubleshooting
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: TEE Broken
-parent: troubleshooting
+parent: Troubleshooting
 nav_order: 3
 ---
 
