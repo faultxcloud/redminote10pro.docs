@@ -43,8 +43,8 @@ callouts:
   new:
     title: New
     color: green
-  highlight:
-    title: Highlight
+  caution:
+    title: Caution
     color: yellow
 # Opsi opsional: ubah opacity/level global (jika ingin)
 callouts_opacity: 0.2
