@@ -4,7 +4,7 @@ nav_order: 1
 ---
 # Redmi Note 10 Pro — Dokumentasi
 Halo! 👋  
-Ini adalah dokumentasi untuk Redmi Note 10 Pro yang pernah saya gunakan.  
+Ini adalah dokumentasi untuk Redmi Note 10 Pro (sweet/sweetin).  
 _Gunakan sidebar di kiri untuk mulai menjelajah._  
 
 
