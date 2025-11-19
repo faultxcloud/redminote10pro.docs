@@ -1,5 +1,5 @@
 # docs/_config.yml
-title: "Redmi Note 10 Pro Documentation - FaultX"
+title: "Redmi Note 10 Pro Documentation"
 description: "Dokumentasi — Redmi Note 10 Pro"
 # Pin just-the-docs ke rilis stabil
 remote_theme: just-the-docs/just-the-docs@v0.6.2
