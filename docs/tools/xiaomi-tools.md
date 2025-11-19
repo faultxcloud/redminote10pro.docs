@@ -9,7 +9,7 @@ Beberapa kumpulan Xiaomi tools
 
 ## MiFlash Tools
 | Version | Link |
-|:---|:---|
+|:--------|:--------|
 | 20181115 | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20181115.zip?a=view) |
 | 20200314 | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20200314.zip?a=view) |
 
