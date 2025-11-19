@@ -1,5 +1,5 @@
 ---
-title: PixelOS
+title: Firmware
 parent: ROM
 nav_order: 2
 ---
