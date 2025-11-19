@@ -28,10 +28,10 @@ Jika salah memilih file atau langkahnya tidak tepat, hp bisa stuck di logo atau 
 
 - **TEE Broken (Trusted Execution Environment):**  
 Kesalahan flashing bisa merusak modul keamanan bawaan hp. Dampaknya bisa berupa:  
-- Widevine turun ke L3 (kualitas streaming jadi lebih rendah)  
-- Play Integrity gagal (beberapa aplikasi menganggap perangkat tidak aman)  
-- Sensor sidik jari atau Face Unlock jadi tidak stabil  
-- Sangat berbahaya untuk melakukan *relock* bootloader
+    - Widevine turun ke L3 (kualitas streaming jadi lebih rendah)  
+    - Play Integrity gagal (beberapa aplikasi menganggap perangkat tidak aman)  
+    - Sensor sidik jari atau Face Unlock jadi tidak stabil  
+    - Sangat berbahaya untuk melakukan *relock* bootloader
 
 - **Privasi & aplikasi perbankan:**  
 Perubahan pada sistem seperti root, custom ROM, atau TEE yang rusak dapat membuat aplikasi seperti:  
