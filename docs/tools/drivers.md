@@ -14,7 +14,7 @@ nav_order: 1
 </details>
 -->
 
-# Install adb & fastboot Driver
+# adb & fastboot Driver
 
 {: .note }
 > Attention to the installation steps properly
