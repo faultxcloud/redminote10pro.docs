@@ -12,7 +12,7 @@ Kumpulan Custom ROM untuk Redmi Note 10 Pro / Pro Max
 ### AOSP (Android Open Source Project)
 
 | ROM Name | Status | Maintainer | Support | Link |
-|:------------:|:--------:|:-----:|:---------:|:----------:|
+|:------------|:--------|:-----|:---------|:----------|
 | ArrowOS | Official (Discontinued) | [Daniel](https://t.me/daniml3) | [Telegram](https://t.me/arrowsweet) | [Download-archive](https://t.me/faultx003/146) |
 | BlissRoms | Official | [Babu Frik](https://t.me/RedmiNote10ProChannel/2063) | [Telegram](https://t.me/Unofficial_X2/) | [Download](https://downloads.blissroms.org/download/sweet/) |
 | CarbonROM | Official | - | - | [Download](https://get.carbonrom.org/device-sweet.html) |
