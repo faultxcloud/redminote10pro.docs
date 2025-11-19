@@ -4,6 +4,8 @@ parent: Recovery
 nav_order: 2
 ---
 
+# Install Custom Recovery di MIUI (Permanen)
+
 Pastikan komputer Anda sudah terpasang [adb-fastboot](../tools/adb-fastboot.md) (driver) dengan benar.  
 
 1. **Download**  
