@@ -1,7 +1,7 @@
 ---
 title: Install Custom Recovery
 parent: Recovery
-nav_order: 2
+nav_order: 1
 ---
 
 # Install Custom Recovery di MIUI (Permanen)
