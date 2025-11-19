@@ -172,9 +172,10 @@ Teliti dan pahami step berikut:
 
 ---
 
+Command Line untuk yang sudah paham atau yang sudah terbiasa install custom rom via sideload, ini command untuk install
 <details>
-  <summary>Command Line Untuk yang sudah paham</summary>
-  Untuk yang sudah terbiasa install custom rom, ini command untuk install
+  <summary>Open</summary>
+ 
  
   ```
   adb reboot bootloader
