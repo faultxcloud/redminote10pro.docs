@@ -4,10 +4,11 @@ nav_order: 1
 ---
 
 ![](assets/images/fx-sweet1.png)
-# Dokumentasi - Redmi Note 10 Pro
+# Dokumentasi - Redmi Note 10 Pro  
+
 Halo! 👋  
-Ini adalah dokumentasi untuk Redmi Note 10 Pro (sweet/sweetin).  
-_Gunakan sidebar di kiri untuk mulai menjelajah._  
+
+Kumpulan catatan, panduan, dan referensi teknis untuk instalasi custom ROM, recovery, firmware, serta perbaikan umum Redmi Note 10 Pro `(sweet / sweetin)`
 
 
 {: .warning }

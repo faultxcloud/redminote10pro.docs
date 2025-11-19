@@ -1,6 +1,6 @@
 ---
 title: Tools
-nav_order: tools
+nav_order: 3
 has_children: true
 ---
 # Tools
