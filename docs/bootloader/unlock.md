@@ -22,9 +22,9 @@ Lanjutkan jika kamu paham konsekuensinya.
 ## ✅ Persiapan  
 Sebelum mulai, pastikan kamu sudah:
 1. Menggunakan akun Mi yang aktif
-Login di HP:
+Login di HP:  
 Settings → Mi Account
-2. Mengaktifkan mode pengembang
+2. Mengaktifkan mode pengembang.  
 Settings → About phone
 Tap MIUI Version 7–10 kali hingga muncul _“You are now a developer!”_
 3. Mengaktifkan OEM Unlocking & USB Debugging
@@ -36,19 +36,20 @@ Aktifkan:
 - ✔ USB debugging (security settings) → login akun Mi
 
 4. Menghubungkan akun Mi ke status Mi Unlock
-Masuk:
-Settings → Additional settings → Developer options → Mi Unlock status
-Lalu pilih:
-➡ Add account and device
+Masuk:  
+Settings → Additional settings → Developer options → Mi Unlock status.  
+Lalu pilih:  
+➡ Add account and device.  
 Jika berhasil akan muncul:
 _"Added successfully"_
 
 ## 🖥️ Langkah di PC (Windows)
-1. Download alat UBL
-Unduh di situs resmi:
-Mi Unlock Tool (MiFlash Unlock)
-(Biasanya berupa file ZIP)
-Ekstrak → jalankan miflash_unlock.exe
+1. Download alat UBL  
+Download di situs resmi:
+[Mi Unlock Tool](https://en.miui.com/unlock/download_en.html) (MiFlash Unlock)  
+(Biasanya berupa file ZIP)  
+Ekstrak → jalankan miflash_unlock.exe  
+
 2. Masuk ke mode Fastboot
 Di HP:
 - Matikan perangkat
