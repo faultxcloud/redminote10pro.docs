@@ -8,7 +8,7 @@ nav_order: 1
 Unlock bootloader (UBL) memungkinkan kamu memasang custom ROM, root, dan modifikasi.
 Namun, melakukan UBL akan menghapus semua data, jadi pastikan kamu sudah backup.  
 
-{: .note }
+{: .warning }
 > Peringatan & Resiko
 > 
 > - Semua data akan terhapus (factory reset)
