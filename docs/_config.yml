@@ -1,0 +1,62 @@
+# docs/_config.yml
+title: "Redmi Note 10 Pro"
+description: "Dokumentasi — Redmi Note 10 Pro"
+# Pin just-the-docs ke rilis stabil
+remote_theme: just-the-docs/just-the-docs@v0.6.2
+
+# Plugin yang digunakan oleh GitHub Pages
+plugins:
+  - jekyll-remote-theme
+
+# Markdown engine: gunakan kramdown dengan input GFM (mendukung block IALs)
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
+# Theme spesifik (just-the-docs) options — contoh fitur yang umum dipakai
+logo: "/assets/images/just-the-docs.png" 
+favicon_ico: "/assets/images/favicon.ico"
+
+search_enabled: true
+
+# GitHub "Edit this page" link (opsional — sesuaikan URL repo Anda)
+gh_edit_link: false
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/<USERNAME>/<REPO>" # GANTI
+gh_edit_branch: "main"
+gh_edit_source: "docs"
+
+# Callouts
+# Anda bisa menambahkan/ubah nama (contoh: note, warning, important, highlight, new)
+callouts:
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: purple
+  new:
+    title: New
+    color: green
+  highlight:
+    title: Highlight
+    color: yellow
+# Opsi opsional: ubah opacity/level global (jika ingin)
+callouts_opacity: 0.2
+callouts_level: quiet
+
+# Navigation / sidebar: default akan menghasilkan dari struktur file.
+# Jika ingin kontrol manual, Anda bisa tambahkan `nav:` di sini.
+nav_enabled: true
+
+# Optional: jika ingin merender mermaid diagrams, tambahkan config (contoh)
+# mermaid:
+#   version: "9.1.3"
+
+# Lain-lain
+exclude: ["README.md"]
