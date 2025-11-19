@@ -1,6 +1,6 @@
 ---
 title: Backup Data
-parent: Persiapan
+parent: Tools
 nav_order: 3
 ---
 # Backup Data

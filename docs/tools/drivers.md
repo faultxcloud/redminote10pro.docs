@@ -1,6 +1,6 @@
 ---
 title: Driver
-parent: Persiapan
+parent: Tools
 nav_order: 1
 ---
 # Install Driver
