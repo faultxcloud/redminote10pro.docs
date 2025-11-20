@@ -5,12 +5,13 @@ description: "Dokumentasi — Redmi Note 10 Pro"
 # remote_theme: just-the-docs/just-the-docs@v0.6.2
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 
+just_the_docs:
+  color_scheme: dark
+
 # Plugin yang digunakan oleh GitHub Pages
 plugins:
   - jekyll-remote-theme
 
-just_the_docs:
-  color_scheme: dark
 
 # Markdown engine: gunakan kramdown dengan input GFM (mendukung block IALs)
 markdown: kramdown
