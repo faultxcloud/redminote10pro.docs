@@ -1,7 +1,7 @@
 ---
 title: Install Custom Recovery
-parent: flashing
-nav_order: 2
+parent: Flashing
+nav_order: 3
 ---
 
 # Install Custom Recovery di MIUI (Permanen)
