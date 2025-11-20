@@ -28,7 +28,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 
 <img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> [Group Support](https://t.me/aryanschat)
 
-### Custom Recovery
+## Custom Recovery
 
 - **OrangeFox Recovery** ``R11.1_7`` **EROFSCompression**  
 <span class="fs-3">
@@ -55,7 +55,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 
 ---
 
-### Android 16
+## Android 16
 
 
 | File Name | Build | MD5 | Link |
