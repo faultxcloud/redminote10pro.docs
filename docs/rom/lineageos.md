@@ -28,6 +28,8 @@ codename : sweet
 ```
 ➜ [Official guide](https://wiki.lineageos.org/devices/sweet/install/variant1/#)
 
+<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> [Group Support](https://t.me/lineagesweet)
+
 ---
 
 ## Download
