@@ -8,9 +8,9 @@ nav_order: 11
 
 
 1. CloudFlare DNS
-   ```
-   1dot1dot1dot1.cloudflare-dns.com
-   ```
+   - ```
+     1dot1dot1dot1.cloudflare-dns.com
+     ```
  
 2. Adguard DNS (Adblocking Supported)
    - Default server
@@ -31,16 +31,16 @@ nav_order: 11
      ```
  
 4. Google DNS
-   ```
-   dns.google
-   ```
+   - ```
+     dns.google
+     ```
  
 5. Quad9 DNS
-   ```
-   dns.quad9.net
-   ```
+   - ```
+     dns.quad9.net
+     ```
  
 6. Tiar DNS (Adblocking DNS Supported)
-   ```
-   dot.tiar.app
-   ```
+   - ```
+     dot.tiar.app
+     ```
