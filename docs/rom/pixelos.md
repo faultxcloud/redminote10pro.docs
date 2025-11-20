@@ -27,9 +27,16 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 ```
 
 ### Custom Recovery
-- **OrangeFox Recovery** ``R11.1_7`` **EROFSCompression** - [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
 
-### Firmware Only
+
+- **OrangeFox Recovery** ``R11.1_7`` **EROFSCompression**  
+<span class="fs-3">
+[Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip){: .btn }
+</span> 
+
+---
+
+## Firmware Only
 
 **Redmi Note 10 Pro**
 
