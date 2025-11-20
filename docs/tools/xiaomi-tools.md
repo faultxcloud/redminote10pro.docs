@@ -19,5 +19,7 @@ Beberapa kumpulan Xiaomi tools
 {: .warning }
 > Unlocking the bootloader will **erase all data** on your device! Before proceeding, ensure the data you would like to retain is **backed up** to your PC or your Google account, or equivalent.
 
-- [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
+<span class="fs-3">
+[Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view){: .btn }
+</span>
 
