@@ -16,12 +16,7 @@ nav_order: 99
     - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)
 - [Collection of Various Root Detection Apps for Android](https://github.com/rushiranpise/detection#collection-of-various-root-detection-apps-for-android)
 - Splash Screen  
-    <details>
-    <summary>📷 Show Picture</summary>
-     <p align="center">
-    <img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/splash-screeen.jpeg" alt="Picture" width="" height="">
-    </p>
-    </details>
+[Show Picture](https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/splash-screeen.jpeg)
     
     - Splash screen for Redmi Note 10 Pro / Max - [Download](https://t.me/faultx003/184)
     - Splash screen creator [Download](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EQ3Rna1BkBpIiDzr5C6zXPgBF2lXAXBCjNbg0Xh3dpgFqg?e=JcSQpd)
