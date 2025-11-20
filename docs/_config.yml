@@ -19,9 +19,6 @@ kramdown:
 # logo: "/assets/images/fx.png" 
 favicon_ico: /assets/favicon.ico
 
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-
 
 search_enabled: true
 
