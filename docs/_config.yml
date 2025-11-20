@@ -9,7 +9,7 @@ plugins:
   - jekyll-remote-theme
 
 just_the_docs:
-  color_scheme: auto
+  color_scheme: dark
 
 # Markdown engine: gunakan kramdown dengan input GFM (mendukung block IALs)
 markdown: kramdown
