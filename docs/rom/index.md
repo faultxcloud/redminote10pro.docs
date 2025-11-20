@@ -9,7 +9,7 @@ Contohnya: MIUI, OneUI, ColorOS, dan lainnya.
 
 ROM bawaan dari pabrikan biasanya sudah berisi aplikasi, fitur, dan pengaturan default yang disesuaikan dengan perangkat tersebut.  
 
-*Custom ROM* adalah versi modifikasi dari Android yang dibuat oleh komunitas atau developer independen. Custom ROM menggantikan ROM bawaan dan biasanya berbasis AOSP (Android Open Source Project).  
+**Custom ROM** adalah versi modifikasi dari Android yang dibuat oleh komunitas atau developer independen. Custom ROM menggantikan ROM bawaan dan biasanya berbasis AOSP (Android Open Source Project).  
 
 Custom ROM menawarkan pengalaman berbeda yang lebih ringan, bebas bloatware, dan dapat memiliki fitur tambahan.
 
