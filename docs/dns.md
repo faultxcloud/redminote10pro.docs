@@ -1,9 +1,10 @@
 ---
-title: Other
+title: DNS
 nav_order: 11
 ---
 
 # DNS
+
 
 1. CloudFlare DNS
    ```
