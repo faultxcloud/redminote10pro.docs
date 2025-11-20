@@ -21,6 +21,9 @@ favicon_ico: /assets/favicon.ico
 
 search_enabled: true
 
+back_to_top: true
+back_to_top_text: "Back to top"
+
 # GitHub "Edit this page" link (opsional — sesuaikan URL repo Anda)
 gh_edit_link: false
 gh_edit_link_text: "Edit this page on GitHub."
