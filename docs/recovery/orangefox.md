@@ -11,7 +11,6 @@ Codename : sweet
 Device   : Redmi Note 10 Pro Max
 Codename : sweetin
 Region   : India
-
 ```
 
 | Android Version | Recovery | Maintainer | Link |
