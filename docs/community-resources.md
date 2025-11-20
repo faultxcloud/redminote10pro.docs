@@ -13,3 +13,4 @@ nav_order: 200
     - [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) • [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel)
 
 
+[![tg]({{ '/assets/icons/telegram.svg' | relative_url }}) Telegram](https://t.me/faultx003)
