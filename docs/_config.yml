@@ -16,8 +16,8 @@ kramdown:
   parse_block_html: true
 
 # Theme spesifik (just-the-docs) options — contoh fitur yang umum dipakai
-logo: "/assets/images/fx.png" 
-# favicon_ico: "/assets/images/favicon.ico"
+# logo: "/assets/images/fx.png" 
+favicon_ico: "/assets/images/fx.png"
 
 
 search_enabled: true
