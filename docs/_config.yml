@@ -17,7 +17,7 @@ kramdown:
 
 # Theme spesifik (just-the-docs) options — contoh fitur yang umum dipakai
 # logo: "/assets/images/fx.png" 
-favicon_ico: "/assets/images/fx.ico"
+favicon_ico: /assets/images/favicon.ico
 
 search_enabled: true
 
