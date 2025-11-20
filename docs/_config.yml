@@ -2,7 +2,8 @@
 title: "Redmi Note 10 Pro Documentation"
 description: "Dokumentasi — Redmi Note 10 Pro"
 # Pin just-the-docs ke rilis stabil
-remote_theme: just-the-docs/just-the-docs@v0.6.2
+# remote_theme: just-the-docs/just-the-docs@v0.6.2
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 # Plugin yang digunakan oleh GitHub Pages
 plugins:
