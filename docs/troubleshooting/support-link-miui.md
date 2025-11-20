@@ -1,5 +1,5 @@
 ---
-title: Find Device storage corrupt
+title: Fix "Open support link" MIUI
 parent: Troubleshooting
 nav_order: 5
 ---
