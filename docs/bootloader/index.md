@@ -3,15 +3,15 @@ title: Bootloader
 nav_order: 4
 has_children: true
 ---
-# 🔧 Apa Itu Bootloader?
+### Bootloader
 
-Bootloader adalah program awal yang dijalankan perangkat ketika dinyalakan. Fungsinya memastikan bahwa sistem operasi yang akan dijalankan aman, asli, dan belum dimodifikasi. Pada perangkat Android, bootloader berperan sebagai "penjaga gerbang" agar hanya firmware resmi dari pabrikan yang dapat berjalan.
+Program awal yang dijalankan perangkat ketika dinyalakan. Fungsinya memastikan bahwa sistem operasi yang akan dijalankan aman, asli, dan belum dimodifikasi. Pada perangkat Android, bootloader berperan sebagai "penjaga gerbang" agar hanya firmware resmi dari pabrikan yang dapat berjalan.
 
 Dengan bootloader terkunci, perangkat lebih aman karena mencegah pemasangan sistem yang tidak resmi. Namun, ini juga membatasi pengguna untuk melakukan modifikasi.
 
 ---
 
-# 🔓 Apa Itu Unlock Bootloader?
+### Unlock Bootloader
 
 Unlock Bootloader (UBL) adalah proses membuka kunci bootloader pada perangkat Android, sehingga pengguna dapat memasang sistem atau modifikasi yang tidak resmi.
 
@@ -21,19 +21,19 @@ Dengan melakukan unlock bootloader, pengguna mendapatkan kebebasan lebih untuk m
 
 ---
 
-# 🔒 Apa Itu Relock Bootloader?
+### Relock Bootloader
 
-Relock Bootloader adalah proses mengunci kembali bootloader setelah sebelumnya dibuka. Biasanya dilakukan saat pengguna ingin mengembalikan perangkat ke kondisi pabrik, meningkatkan keamanan, atau ingin menjual perangkat dalam keadaan standar.
+Proses mengunci kembali bootloader setelah sebelumnya dibuka. Biasanya dilakukan saat pengguna ingin mengembalikan perangkat ke kondisi pabrik, meningkatkan keamanan, atau ingin menjual perangkat dalam keadaan standar.
 
 **Catatan penting:** Relock hanya aman dilakukan jika perangkat sedang menggunakan ROM resmi (stock ROM). Jika dilakukan pada custom ROM atau sistem yang sudah dimodifikasi, perangkat dapat mengalami brick.
 
 ---
 
-# ⚠️ Keamanan & Risiko Unlock Bootloader
+### ⚠️ Keamanan & Risiko Unlock Bootloader
 
 Unlock bootloader memberikan fleksibilitas tinggi, namun juga membawa beberapa risiko penting yang perlu dipahami:
 
-## 1. 🔐 Keamanan Sistem Menurun
+### 1. 🔐 Keamanan Sistem Menurun
 
 Bootloader yang terbuka memungkinkan pemasangan sistem tidak resmi. Ini memperbesar potensi:
 
@@ -41,11 +41,11 @@ Bootloader yang terbuka memungkinkan pemasangan sistem tidak resmi. Ini memperbe
 * Modifikasi berbahaya pada sistem
 * Aplikasi keamanan (termasuk perbankan) menolak bekerja
 
-## 2. 🧹 Factory Reset (Data Hilang)
+### 2. 🧹 Factory Reset (Data Hilang)
 
 Proses unlock akan menghapus seluruh data di perangkat untuk alasan keamanan.
 
-## 3. 📱 Risiko Bootloop/Hang Saat Modifikasi
+### 3. 📱 Risiko Bootloop/Hang Saat Modifikasi
 
 Jika modifikasi (ROM, kernel, root) tidak tepat, perangkat berpotensi:
 
@@ -53,7 +53,7 @@ Jika modifikasi (ROM, kernel, root) tidak tepat, perangkat berpotensi:
 * Softbrick
 * Hardbrick
 
-## 4. 🛡️ SafetyNet & Sertifikasi Hilang
+### 4. 🛡️ SafetyNet & Sertifikasi Hilang
 
 Setelah UBL, beberapa fitur dapat terpengaruh:
 
@@ -61,12 +61,12 @@ Setelah UBL, beberapa fitur dapat terpengaruh:
 * Play Integrity tidak lolos
 * Aplikasi perbankan/e-wallet mendeteksi perangkat tidak aman
 
-## 5. ⚙️ Garansi Bisa Tidak Berlaku
+### 5. ⚙️ Garansi Bisa Tidak Berlaku
 
 Tergantung kebijakan wilayah atau distributor.
 
 ---
 
-# 📝 Kesimpulan
+### 📝 Kesimpulan
 
 Unlock bootloader memberi kebebasan penuh untuk mengatur dan memodifikasi sistem perangkat, tetapi juga membuka potensi risiko keamanan dan kestabilan. Lakukan hanya jika kamu memahami konsekuensinya dan benar-benar membutuhkannya.
