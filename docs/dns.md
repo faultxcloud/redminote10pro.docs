@@ -6,6 +6,7 @@ nav_order: 11
 # DNS
 
 
+
 1. CloudFlare DNS
    ```
    1dot1dot1dot1.cloudflare-dns.com
@@ -43,6 +44,3 @@ nav_order: 11
    ```
    dot.tiar.app
    ```
- 
----
-[**← Back**](https://github.com/TriHermawan/RedmiNote10Pro/tree/main?tab=readme-ov-file#optional)
