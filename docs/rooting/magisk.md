@@ -20,7 +20,7 @@ Metode root modern untuk Android yang bersifat systemless, artinya proses root t
 ### 📝 Kesimpulan
 **Magisk** adalah cara root Android yang paling aman, fleksibel, dan populer saat ini, memungkinkan modifikasi sistem tanpa mengganggu partisi utama, serta tetap menjaga kompatibilitas dengan aplikasi yang sensitif.  
 
-Download Magisk Official `.zip`:
+Download:
 
 <span class="fs-3">
 [Magisk](https://github.com/topjohnwu/Magisk){: .btn }
