@@ -19,7 +19,6 @@ kramdown:
 # logo: "/assets/images/fx.png" 
 favicon_ico: "/assets/images/fx.ico"
 
-
 search_enabled: true
 
 # GitHub "Edit this page" link (opsional — sesuaikan URL repo Anda)
