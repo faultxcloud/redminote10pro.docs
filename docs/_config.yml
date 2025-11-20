@@ -61,6 +61,6 @@ nav_enabled: true
 # Lain-lain
 exclude: ["README.md"]
 
-footer: false
+# footer: false
 
-footer_content: "© 2025 FaultX - Documentation"
+footer_content: '© 2025 FaultXCloud — Redmi Note 10 Pro Documentation'
