@@ -1,6 +1,6 @@
 ---
 title: Install Custom Recovery
-parent: Recovery
+parent: flashing
 nav_order: 1
 ---
 
