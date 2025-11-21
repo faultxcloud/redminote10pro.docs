@@ -6,4 +6,4 @@ has_children: true
 
 # <img src="{{ '/assets/icons/gallery-icon.svg' | relative_url }}" width="48" style="vertical-align:middle;"> Wallpaper
 
-Beberapa koleksi wallpaper.
+Beberapa koleksi wallpaper.  
