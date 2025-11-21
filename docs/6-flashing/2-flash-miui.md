@@ -10,7 +10,7 @@ nav_order: 2
 
 - [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
 
-- Flash [ROM OFFICIAL MIUI](../rom/miui.md) (type: RECOVERY - `.zip`)
+- Flash [ROM OFFICIAL MIUI](../5-rom/1-miui.md) (type: RECOVERY - `.zip`)
 
 - Format Data ➜ **"YES"**
 
@@ -23,7 +23,7 @@ nav_order: 2
 
 1. **Download Fastboot ROM resmi**  
 Cari ROM model:  
-sweet (Global/EEA/Indonesia) →  [Download](../rom/1-miui.md) _(Format file harus `.tgz`)_ lalu extract
+sweet (Global/EEA/Indonesia) →  [Download](../5-rom/1-miui.md) _(Format file harus `.tgz`)_ lalu extract
   
 2. **Masuk mode Fastboot**
     - Matikan HP
