@@ -1,7 +1,7 @@
 ---
 title: PixelOS
 parent: Flashing
-nav_order: 5
+nav_order: 4
 ---
 
 # PixelOS

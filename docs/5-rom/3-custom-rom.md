@@ -1,7 +1,7 @@
 ---
 title: Custom ROM
 parent: ROM
-nav_order: 2
+nav_order: 3
 ---
 # Custom ROMs
 
