@@ -6,6 +6,11 @@ nav_order: 1
 ![](assets/images/fx-sweet1.png)
 # Dokumentasi - Redmi Note 10 Pro  
 
+<span class="fs-3">
+[<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="48" style="vertical-align:middle;"> Telegram](https://t.me/faultx003){: .btn }
+</span>
+
+
 Halo! 👋  
 
 Kumpulan catatan, panduan, dan referensi teknis untuk instalasi custom ROM, recovery, firmware, serta perbaikan umum Redmi Note 10 Pro `(sweet / sweetin)`  
