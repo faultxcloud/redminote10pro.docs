@@ -1,7 +1,7 @@
 ---
 title: Backup Data
 parent: Tools
-nav_order: 4
+nav_order: 5
 ---
 # Backup Data
 Sangat disarankan untuk selalu Backup Data Penting sebelum melakukan hal apapun di perangkat kamu.
