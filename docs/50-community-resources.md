@@ -1,6 +1,6 @@
 ---
 title: Community & Resources
-nav_order: 5
+nav_order: 50
 ---
 
 # Community & Resources
