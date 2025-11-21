@@ -76,3 +76,21 @@ MEETS_STRONG_INTEGRITY
 Ini adalah hasil resmi langsung dari **Google Play Services**.
 
 ![](../assets/images/playintegrity-ss.png)
+
+---
+
+# Fix Play Integrity & Strong Integrity
+
+- Install module [Play Integrity Inject](https://github.com/KOWX712/PlayIntegrityFix/releases/latest) or [Play integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases/latest)
+- Install module [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
+- Install module [Yurikey Manager](https://github.com/dpejoh/yurikey/releases/latest) by your root manager (Magisk/Apatch/KernelSu/Fork of KernelSU)
+Press the action button
+
+Hasilnya akan seperti ini:  
+<img src="{{ '/assets/icons/check-green.png' | relative_url }}" width="16" style="vertical-align:middle;"> `MEETS_BASIC_INTEGRITY`  
+
+<img src="{{ '/assets/icons/check-green.png' | relative_url }}" width="16" style="vertical-align:middle;"> `MEETS_DEVICE_INTEGRITY` 
+
+<img src="{{ '/assets/icons/check-green.png' | relative_url }}" width="16" style="vertical-align:middle;"> `MEETS_STRONG_INTEGRITY`  
+
+
