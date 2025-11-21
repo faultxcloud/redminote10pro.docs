@@ -10,5 +10,5 @@ nav_order: 2
 
 
 <span class="fs-5">
-[Download](https://drive.google.com/drive/folders/18hRFNZdSpYaNY7xygnMYiXInDoeyyWOj?usp=drive_link){: .btn }
+[Download](https://drive.google.com/drive/folders/18hRFNZdSpYaNY7xygnMYiXInDoeyyWOj?usp=sharing){: .btn }
 </span>
