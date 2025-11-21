@@ -23,7 +23,7 @@ nav_order: 2
 
 1. **Download Fastboot ROM resmi**  
 Cari ROM model:  
-sweet (Global/EEA/Indonesia) →  [Download](../rom/miui.md) _(Format file harus `.tgz`)_ lalu extract
+sweet (Global/EEA/Indonesia) →  [Download](../rom/1-miui.md) _(Format file harus `.tgz`)_ lalu extract
   
 2. **Masuk mode Fastboot**
     - Matikan HP

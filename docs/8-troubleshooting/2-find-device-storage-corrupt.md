@@ -17,7 +17,7 @@ nav_order: 2
     - Format data ➜ YES
     - Reboot system  
 
-4. Flash [ROM MIUI 13/14](../rom/miui.md) Type: `Recovery`
+4. Flash [ROM MIUI 13/14](../5-rom/1-miui.md) Type: `Recovery`
     - Flash ROM MIUI
     - Format data ➜ YES
     - Reboot system

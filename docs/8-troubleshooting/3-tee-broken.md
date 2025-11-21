@@ -39,7 +39,7 @@ tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainbo
 > Test: _19 Juni 2024_
 
 
-- Flash [Engineering ROM](../rom/engineering-rom.md) using [Miflash](../tools/xiaomi-tools.md) (flash all)
+- Flash [Engineering ROM](../5-rom/7-engineering-rom.md) using [Miflash](../2-tools/3-xiaomi-tools.md) (flash all)
 - Enable Developer Options
 - Make sure the sw.xml file is located in the same folder.
 - Open CMD/Terminal and execute the command below:
