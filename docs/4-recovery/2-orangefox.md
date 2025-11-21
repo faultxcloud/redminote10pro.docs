@@ -3,7 +3,7 @@ title: OrangeFox
 parent: Recovery
 nav_order: 2
 ---
-# OrangeFox
+# <img src="{{ '/assets/icons/orangefox-logo.svg' | relative_url }}" width="48" style="vertical-align:middle;"> OrangeFox
 ```
 Device   : Redmi Note 10 Pro
 Codename : sweet

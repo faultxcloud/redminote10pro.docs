@@ -3,7 +3,7 @@ title: TWRP
 parent: Recovery
 nav_order: 1
 ---
-# TWRP
+# <img src="{{ '/assets/icons/twrp-logo.svg' | relative_url }}" width="48" style="vertical-align:middle;"> TWRP
 
 ```
 Device   : Redmi Note 10 Pro
