@@ -32,9 +32,9 @@ Debloat adalah cara untuk menghilangkan aplikasi bawaan yang tidak diperlukan, s
 > Saya tidak bertanggung jawab atas apapun yang terjadi pada perangkat Anda, lakukan dengan risiko Anda sendiri!  
 
 
-### Tools Debloat
+## Tools Debloat
 
-1. **XiaomiADBFastbootTools**  
+### XiaomiADBFastbootTools  
 Menggunakan software ini bisa untuk debloat. 
 
     Requirement:
@@ -46,7 +46,7 @@ Menggunakan software ini bisa untuk debloat.
 
 ![](../assets/images/xiaomi-adb-fastboot-tools.png)
 
-2. **Script**  
+### Script  
 Menggunakan script `.bat` (Windows) atau `.sh` (macOS / Linux)  
 
 
