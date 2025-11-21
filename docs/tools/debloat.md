@@ -42,7 +42,9 @@ Menggunakan software ini bisa untuk debloat.
 
    <span class="fs-3">
 [Download XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing){: .btn }
-</span>  
+</span>    
+
+![](https://xdaforums.com/proxy.php?image=https%3A%2F%2Fi.postimg.cc%2F2SnR9mht%2Fd2.png&hash=6c9131c689c5008e4f56ebd9f9f52ec1)
 
 2. **Script**  
 Menggunakan script `.bat` (Windows) atau `.sh` (macOS / Linux)  
