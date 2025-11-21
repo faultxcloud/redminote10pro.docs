@@ -8,7 +8,7 @@ nav_order: 1
 
 Halo! 👋  
 
-Kumpulan catatan, panduan, dan referensi teknis untuk instalasi custom ROM, recovery, firmware, serta perbaikan umum Redmi Note 10 Pro `(sweet / sweetin)`
+Kumpulan catatan, panduan, dan referensi teknis untuk instalasi custom ROM, recovery, firmware, serta perbaikan umum Redmi Note 10 Pro `(sweet / sweetin)`  
 
 
 {: .warning }
