@@ -18,9 +18,9 @@ Codename : sweetin
 Region   : India
 ```
 
-{: .note }
-> If you are currently or previously using a ROM/Custom ROM (AOSP) and want to flash MIUI to MIUI 14/13/12, I recommend doing [**this**](https://t.me/faultx003/303) . The goal is to ensure that when you're on MIUI, you won't encounter a message like this: _"Find Device storage corrupt. Your device is unsafe now."_ 
 
+{: .note }
+> Jika kamu saat ini atau sebelumnya menggunakan ROM/Custom ROM (AOSP) dan ingin menginstal MIUI 14/13/12, saya sarankan untuk melakukan hal [ini](../troubleshooting/find-device-storage-corrupt.md). Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemui pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_  / _“Penyimpanan perangkat rusak. Perangkat Anda sekarang tidak aman.”_
 
 ## Global (MI)
 
