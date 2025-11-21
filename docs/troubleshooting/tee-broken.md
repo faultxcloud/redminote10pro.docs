@@ -10,7 +10,7 @@ nav_order: 3
 TEE (Trusted Execution Environment) adalah bagian khusus di prosesor yang menyimpan data keamanan seperti fingerprint, Widevine, dan Play Integrity.
 TEE Broken berarti ruang keamanan ini rusak atau tidak berfungsi.
 
-#### ⚠️ Dampak TEE Broken
+### ⚠️ Dampak TEE Broken
 Widevine turun ke L3 (tidak bisa streaming HD)
 Fingerprint gagal atau tidak bisa digunakan
 Play Integrity / Safety API gagal
