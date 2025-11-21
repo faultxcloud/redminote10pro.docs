@@ -40,11 +40,11 @@ codename : sweet
    Rename:
   - `lineage-xx.x-xxxx-nightly-sweet-signed.zip` ➜ `rom.zip`
     
-- [Latest Firmware Only](../rom/firmware.md)
+- [Latest Firmware Only](../5-rom/2-firmware.md)
 
   Rename: `fw_sweet_miui_xxxxx_13.0.zip` ➜ `fw.zip`
 - Optional:
-  - [MindTheGApps](../rom/gapps.md)
+  - [MindTheGApps](../5-rom/6-gapps.md)
 
     Rename: `MindTheGapps-15.0.0-arm64-xxxxx.zip` ➜ `gapps.zip`
   - [Magisk](https://github.com/topjohnwu/Magisk/releases)
@@ -52,7 +52,7 @@ codename : sweet
     Rename: `Magisk-xxxx.apk` ➜ `magisk.zip`
 
 ### Syarat
-- Pastikan [ADB & Fastboot Driver](../tools/adb-fastboot.md) sudah terinstall dengan benar di mesin komputer anda.
+- Pastikan [ADB & Fastboot Driver](../2-tools/1-adb-fastboot.md) sudah terinstall dengan benar di mesin komputer anda.
 - Backup semua data penting, karena data akan terformat.
 - **Sign out** Mi Account, Jika anda saat ini di MIUI ROM.
 - **Sign out** semua akun Google untuk menghindari "FRP" (Factory Reset Protection).
