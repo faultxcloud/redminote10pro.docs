@@ -1,5 +1,5 @@
 ---
-title: Driver
+title: ADB & Fastboot Driver
 parent: Tools
 nav_order: 1
 ---
