@@ -7,7 +7,7 @@ nav_order: 1
 # Dokumentasi - Redmi Note 10 Pro  
 
 <span class="fs-1">
-[<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="48" style="vertical-align:middle;"> Telegram](https://t.me/faultx003){: .btn }
+[<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> Telegram](https://t.me/faultx003){: .btn }
 </span>
 
 
