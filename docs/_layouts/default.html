@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}" class="no-js">
+  {% include head.html %}
+  <body class="page {{ site.just_the_docs.color_scheme | default: 'light' }}" data-toc="{% if site.just_the_docs.gh_edit_link and site.just_the_docs.gh_edit_link_text %}true{% else %}false{% endif %}">
+
+    {% include header.html %}
+
+    <div class="page__wrapper">
+      {% include sidebar.html %}
+      <div class="main-content-wrap">
+        <main class="main-content">
+          {% include banner.html %}
+          {{ content }}
+        </main>
+
+        <footer class="site-footer">
+            <div class="footer-content">
+                Hak Cipta &copy; {{ site.time | date: "%Y" }} Proyek Redmi Note 10 Pro. Dikelola oleh faultxcloud.
+            </div>
+        </footer>
+        {% include footer_nav.html %}
+      </div>
+    </div>
+
+    {% include footer_scripts.html %}
+  </body>
+</html>
