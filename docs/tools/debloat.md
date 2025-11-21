@@ -35,10 +35,28 @@ Debloat adalah cara untuk menghilangkan aplikasi bawaan yang tidak diperlukan, s
 ### Tools Debloat
 
 1. **XiaomiADBFastbootTools**  
-Requirement:
+Menggunakan software ini bisa untuk debloat. 
+
+    Requirement:
     - JDK for run `.jar` - [Download](https://www.oracle.com/java/technologies/downloads/) (Windows, macOS, Linux)  
 
    <span class="fs-3">
 [Download XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing){: .btn }
 </span>  
 
+2. **Script**  
+Menggunakan script `.bat` (Windows) atau `.sh` (macOS / Linux)  
+
+
+{: .note }
+> Pastikan komputer kamu sudah terinstall [adb-fastboot](../tools/adb-fastboot.md) (drivers) dengan benar.
+
+Windows user = run `.bat`  
+macOS / Linux user = $ `chmod +x .sh`  
+
+| Windows | macOS / Linux |
+|:---:|:---:|
+| [MIUI 12](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-12.bat) | [MIUI 12](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-12.sh) |
+| [MIUI 13-14](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-13-14.bat) | [MIUI 13-14](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-13-14.sh) |  
+
+![](../assets/images/debloat-script.png)
