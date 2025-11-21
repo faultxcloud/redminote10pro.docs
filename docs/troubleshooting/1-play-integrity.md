@@ -1,7 +1,7 @@
 ---
 title: Play Integrity
 parent: Troubleshooting
-nav_order: 5
+nav_order: 1
 ---
 
 # Play Integrity

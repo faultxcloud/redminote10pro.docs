@@ -1,7 +1,7 @@
 ---
 title: Fix "Open support link" MIUI
 parent: Troubleshooting
-nav_order: 5
+nav_order: 4
 ---
 
 # Fix "Open support link" MIUI

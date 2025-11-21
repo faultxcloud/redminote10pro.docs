@@ -1,7 +1,7 @@
 ---
 title: Hardware issues
 parent: Troubleshooting
-nav_order: 4
+nav_order: 5
 ---
 
 # Hardware issues
