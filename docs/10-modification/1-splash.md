@@ -21,6 +21,7 @@ Jika kamu ingin membuat sendiri bisa menggunakan Tools ini:
 </span>  
 
 Atau jika kamu mau yang sudah jadi, saya ada beberapa koleksi Splash Screen yang saya buat, bisa kamu pilih dan download:  
+
 <span class="fs-3">
 [Splash Screen Redmi Note 10 Pro](https://t.me/faultx003/184){: .btn }
 </span>  
