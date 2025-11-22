@@ -1,10 +1,10 @@
 ---
-title: Erase System Dynamic Partition
+title: Freeze AOSP ROM
 parent: Troubleshooting
 nav_order: 7
 ---
 
-# Erase System Dynamic Partition
+# Freeze AOSP ROM
 
 Beberapa user mengalami freeze di custom ROM base AOSP, dan solusinya adalah _Erase System Dynamic Partition_.  
 Lalu Flash ulang ROM AOSP.  
