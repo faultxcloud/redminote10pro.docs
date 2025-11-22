@@ -28,6 +28,10 @@ Aplikasi keamanan bermasalah.
 Kadang bisa (melalui flash firmware atau pemulihan key),  
 tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainboard.
 
+{: .note }
+> Untuk cek TEE bisa menggunakan aplikasi Momo: [Download](../assets/apk/Momo_4.4.1.apk)
+
+
 ---
 
 # Fix TEE Broken
