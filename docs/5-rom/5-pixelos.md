@@ -57,6 +57,8 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 
 ## Android 16
 
+Coming soon
+{: .label .label-yellow }
 
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
@@ -64,6 +66,9 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 
 
 ### Android 15
+
+Latest
+{: .label .label-green }
 
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
