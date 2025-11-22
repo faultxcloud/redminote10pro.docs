@@ -26,7 +26,11 @@ Group Support   : Telegram (https://t.me/Aryannn999)
 Support PixelOS : Paypal (https://paypal.me/whyredfire)
 ```
 
-<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> [PixelOS Group Support](https://t.me/aryanschat)
+
+<span class="fs-1">
+[<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> PixelOS Group Support](https://t.me/aryanschat){: .btn }
+</span>
+
 
 ## Custom Recovery
 
