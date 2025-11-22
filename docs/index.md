@@ -22,7 +22,7 @@ Region   : India
 [<img src="{{ '/assets/icons/web.png' | relative_url }}" width="16" style="vertical-align:middle;"> Link](https://linktr.ee/faultx.repair){: .btn }
 </span>
 <span class="fs-1">
-[<img src="{{ '/assets/icons/g-cloud-icon.png' | relative_url }}" width="16" style="vertical-align:middle;"> Cloud](https://linktr.ee/faultx.repair){: .btn }
+[<img src="{{ '/assets/icons/g-cloud-icon.png' | relative_url }}" width="16" style="vertical-align:middle;"> Cloud](https://cloud03.faultx.workers.dev/){: .btn }
 </span>
 
 
