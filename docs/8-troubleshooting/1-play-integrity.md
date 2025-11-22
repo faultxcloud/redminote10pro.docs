@@ -6,6 +6,13 @@ nav_order: 1
 
 # Play Integrity
 
+{: .note }
+> Root: Magisk (sejenisnya) / KernelSU (sejenisnya) / Apatch
+>
+> _Saya tidak bertanggung jawab atas apapun yang terjadi pada perangkat Anda, lakukan dengan risiko Anda sendiri!_
+
+
+
 ### 🔐 Apa Itu Play Integrity?
 **Play Integrity** adalah API dari Google Play Store / Google Play Services yang membantu pengembang aplikasi memverifikasi:
 Apakah aplikasi yang dijalankan adalah versi resmi dari Play Store,
