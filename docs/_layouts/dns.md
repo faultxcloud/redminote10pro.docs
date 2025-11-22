@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: DNS
-nav_exclude: false
+permalink: /minimal-page/
 ---
 
 # DNS
