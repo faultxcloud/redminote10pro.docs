@@ -6,17 +6,21 @@ nav_order: 1
 ![](assets/images/fx-sweet1.png)
 # Redmi Note 10 Pro • Documentation
 
+```
+Device   : Redmi Note 10 Pro
+Codename : sweet
+----------------------------------
+Device   : Redmi Note 10 Pro Max
+Codename : sweetin
+Region   : India
+```
+
 <span class="fs-1">
 [<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> Telegram](https://t.me/faultx003){: .btn }
 </span>
 <span class="fs-1">
 [<img src="{{ '/assets/icons/web.png' | relative_url }}" width="16" style="vertical-align:middle;"> Link](https://linktr.ee/faultx.repair){: .btn }
 </span>
-
-
-Halo! 👋  
-
-Kumpulan catatan, panduan, dan referensi teknis untuk instalasi custom ROM, recovery, firmware, serta perbaikan umum Redmi Note 10 Pro `(sweet / sweetin)`  
 
 
 {: .warning }
