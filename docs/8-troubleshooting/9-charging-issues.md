@@ -10,7 +10,7 @@ Di beberapa device Redmi Note 10 Pro yang menggunakan Custom ROM base AOSP / non
 
 ### Detail Isu LN8000
 
-- **Varian IC:** Redmi Note 10 Pro (kode nama sweet / sweetin) dilaporkan memiliki dua jenis IC pengisian daya (Charging IC) yang berbeda yang digunakan oleh Xiaomi:
+- **Varian IC:** Redmi Note 10 Pro `(codename: sweet / sweetin)` dilaporkan memiliki dua jenis IC pengisian daya (Charging IC) yang berbeda yang digunakan oleh Xiaomi:
 
     - **`BQ2597x`** (atau yang serupa).
 
