@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: minimal
 title: DNS
 nav_exclude: false
 ---
