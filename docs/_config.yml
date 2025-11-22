@@ -5,6 +5,8 @@ description: "Dokumentasi — Redmi Note 10 Pro"
 # remote_theme: just-the-docs/just-the-docs@v0.6.2
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 
+baseurl: /redminote10pro.docs
+
 just_the_docs:
   color_scheme: dark
 

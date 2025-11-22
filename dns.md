@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: DNS
-permalink: /dns.md
+permalink: dns.md
 ---
 
 # DNS
