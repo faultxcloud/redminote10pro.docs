@@ -1,7 +1,4 @@
----
-title: DNS
-nav_order: 30
----
+
 
 # DNS
 
