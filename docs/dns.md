@@ -1,7 +1,7 @@
 ---
 layout: other
 title: DNS
-nav_exclude: true
+nav_exclude: false
 ---
 
 # DNS
