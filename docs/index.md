@@ -67,5 +67,3 @@ Perubahan pada sistem seperti root, custom ROM, atau TEE yang rusak dapat membua
 
  Panduan ini dibuat agar kamu bisa melakukan semuanya dengan aman.  
  Baca langkah-langkah dengan teliti, gunakan file yang tepat untuk *Redmi Note 10 Pro (sweet/sweetin)*, dan jangan terburu-buru.
-
- [`FaultX`](https://t.me/faultx003)
