@@ -1,4 +1,8 @@
-
+---
+title: DNS
+parent: Other
+nav_order: 1
+---
 
 # DNS
 
