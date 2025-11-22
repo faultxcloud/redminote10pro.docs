@@ -21,7 +21,6 @@ Jika kamu ingin membuat sendiri bisa menggunakan Tools ini:
 </span>  
 
 Atau jika kamu mau yang sudah jadi, saya ada beberapa koleksi Splash Screen yang saya buat, bisa kamu pilih dan download:  
-
 <span class="fs-3">
 [Splash Screen Redmi Note 10 Pro](https://t.me/faultx003/184){: .btn }
 </span>  
@@ -39,6 +38,7 @@ Sudah terinstall [Custom Recovery](../4-recovery/index.md)
 Saat rebooting, otomatis Logo awal (_splash screen_)akan berubah.
 
 Jika kamu butuh **Stock MIUI Splash** atau mengembalikanya bisa kamu download dan cara installnya sama seperti diatas. 
+
 <span class="fs-3">
 [Stock Splash - Redmi Note 10 Pro](../assets/splash/flashable_splash_MIUI-13-14-faultx.zip){: .btn }
 </span>  
