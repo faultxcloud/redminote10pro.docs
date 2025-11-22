@@ -83,27 +83,30 @@ Latest
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
 | PixelOS_sweet-14.0-20241026-0519.zip | 2024-10-26| ``e0c6e5913373c4bd4f403a99d6bf539a`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20241026-0519.zip/download) |
-
-[Old version - Download ➜](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/)
+ 
+<span class="fs-3">
+[Old version A14](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/){: .btn }
+</span>
 
 
 ### Android 13
 
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
-| PixelOS_sweet-13.0-20230831-0536.zip| 2023-08-31 | ``d4211e74fd672c5a4c751bda67ea1ec6`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/PixelOS_sweet-13.0-20230831-0536.zip/download) |
+| PixelOS_sweet-13.0-20230831-0536.zip| 2023-08-31 | ``d4211e74fd672c5a4c751bda67ea1ec6`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/PixelOS_sweet-13.0-20230831-0536.zip/download) |  
 
-[Old version - Download ➜](https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/)
+[Old version A13](https://sourceforge.net/projects/pixelos-releases/files/thirteen/sweet/){: .btn }
+</span>
 
 
 ### Android 12
 
 | File Name | Release | MD5 | Link |
 |:----|:----|:----|:----|
-| PixelOS_sweet-12.1-20220812-0031.zip | 2022-08-12 | ``ce4895f8a3cf2af7fd5b659986fea5ce`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220812-0031.zip/download) |
+| PixelOS_sweet-12.1-20220812-0031.zip | 2022-08-12 | ``ce4895f8a3cf2af7fd5b659986fea5ce`` | [Download](https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220812-0031.zip/download) |  
 
-
-[Old version - Download ➜](https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/)
+[Old version A12](https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/){: .btn }
+</span>
 
 ---
 
