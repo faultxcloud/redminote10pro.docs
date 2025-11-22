@@ -5,7 +5,7 @@ nav_order: 2
 
 ![](assets/images/fx-sweet1.png)
 
-# Informasi Perangkat
+# Device Information
 
 |  | Spesification |
 |:---|:---|

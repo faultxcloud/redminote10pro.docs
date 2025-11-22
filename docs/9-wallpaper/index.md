@@ -5,5 +5,3 @@ has_children: true
 ---
 
 # Wallpaper
-
-Beberapa koleksi wallpaper.  
