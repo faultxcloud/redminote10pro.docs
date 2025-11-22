@@ -1,7 +1,6 @@
 ---
 layout: minimal
 title: DNS
-permalink: /minimal-page/
 ---
 
 # DNS

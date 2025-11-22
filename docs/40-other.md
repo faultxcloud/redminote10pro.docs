@@ -14,4 +14,4 @@ nav_order: 40
     - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en&gl=US) 
     - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)
 - [Collection of Various Root Detection Apps for Android](https://github.com/rushiranpise/detection#collection-of-various-root-detection-apps-for-android)
-- [DNS](../docs/_layouts/dns.md)
+- [DNS](../docs/dns.md)
