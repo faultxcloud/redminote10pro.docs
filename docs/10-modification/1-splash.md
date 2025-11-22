@@ -25,7 +25,7 @@ Atau jika kamu mau yang sudah jadi, saya ada beberapa koleksi Splash Screen yang
 [Splash Screen Redmi Note 10 Pro](https://t.me/faultx003/184){: .btn }
 </span>  
 
-#### Cara install
+### Cara install
 
 Sudah terinstall [Custom Recovery](../4-recovery/index.md)  
 - Download file (`.zip`)
