@@ -18,9 +18,15 @@ Region   : India
 <span class="fs-1">
 [<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> Telegram](https://t.me/faultx003){: .btn }
 </span>
+
 <span class="fs-1">
 [<img src="{{ '/assets/icons/web.png' | relative_url }}" width="16" style="vertical-align:middle;"> Link](https://linktr.ee/faultx.repair){: .btn }
 </span>
+
+<span class="fs-1">
+[<img src="{{ '/assets/icons/g-cloud-icon.png' | relative_url }}" width="16" style="vertical-align:middle;"> Cloud](https://linktr.ee/faultx.repair){: .btn }
+</span>
+
 
 
 {: .warning }
