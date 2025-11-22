@@ -27,7 +27,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 ```
 
 
-<span class="fs-1">
+<span class="fs-3">
 [<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> PixelOS Group Support](https://t.me/aryanschat){: .btn }
 </span>
 
