@@ -1,6 +1,7 @@
 ---
 layout: minimal
 title: DNS
+nav: false
 ---
 
 # DNS
