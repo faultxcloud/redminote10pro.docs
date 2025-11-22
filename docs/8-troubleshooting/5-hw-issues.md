@@ -34,6 +34,10 @@ bisa cek harga resmi (jika masih tersedia)
 [Cek Part](https://www.mi.co.id/id/support/spare-parts-price/?name=redmi-note-10-pro){: .btn }
 </span>
 
+{: .note }
+> Jika terkena beberapa issues diatas, jauh lebih baik langsung diservis.
+Jika dibiarkan terlalu lama biasanya berujung mati-total dan tidak bisa diservis, kecuali ganti mainboard (mesin).
+
 ---
 
 ### 📷 Dokumentasi saat saya reballing chipset CPU
